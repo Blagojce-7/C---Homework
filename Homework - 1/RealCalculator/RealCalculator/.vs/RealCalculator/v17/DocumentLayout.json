@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Blagojce Ivanov\\Desktop\\sedc\\C#_homework\\Homework - 1\\RealCalculator\\RealCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B119CF89-BC2D-4FE6-9A85-A9DFE590C41F}|RealCalculator\\RealCalculator.csproj|c:\\users\\blagojce ivanov\\desktop\\sedc\\c#_homework\\homework - 1\\realcalculator\\realcalculator\\realcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B119CF89-BC2D-4FE6-9A85-A9DFE590C41F}|RealCalculator\\RealCalculator.csproj|solutionrelative:realcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBDC0D9-CDC8-4BFB-AB62-DB45F8E38ED1}|AverageNumber\\AverageNumber.csproj|c:\\users\\blagojce ivanov\\desktop\\sedc\\c#_homework\\homework - 1\\realcalculator\\realcalculator\\averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBDC0D9-CDC8-4BFB-AB62-DB45F8E38ED1}|AverageNumber\\AverageNumber.csproj|solutionrelative:averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62E00A6-AB31-4DBD-BCF0-9ACD34D5F35A}|SwapNumbers\\SwapNumbers.csproj|c:\\users\\blagojce ivanov\\desktop\\sedc\\c#_homework\\homework - 1\\realcalculator\\realcalculator\\swapnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62E00A6-AB31-4DBD-BCF0-9ACD34D5F35A}|SwapNumbers\\SwapNumbers.csproj|solutionrelative:swapnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Blagojce Ivanov\\Desktop\\sedc\\C#_homework\\Homework - 1\\RealCalculator\\RealCalculator\\SwapNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SwapNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Blagojce Ivanov\\Desktop\\sedc\\C#_homework\\Homework - 1\\RealCalculator\\RealCalculator\\SwapNumbers\\Program.cs",
+              "RelativeToolTip": "SwapNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T19:30:56.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Blagojce Ivanov\\Desktop\\sedc\\C#_homework\\Homework - 1\\RealCalculator\\RealCalculator\\AverageNumber\\Program.cs",
+              "RelativeDocumentMoniker": "AverageNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Blagojce Ivanov\\Desktop\\sedc\\C#_homework\\Homework - 1\\RealCalculator\\RealCalculator\\AverageNumber\\Program.cs",
+              "RelativeToolTip": "AverageNumber\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:15:39.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Blagojce Ivanov\\Desktop\\sedc\\C#_homework\\Homework - 1\\RealCalculator\\RealCalculator\\RealCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "RealCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Blagojce Ivanov\\Desktop\\sedc\\C#_homework\\Homework - 1\\RealCalculator\\RealCalculator\\RealCalculator\\Program.cs",
+              "RelativeToolTip": "RealCalculator\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:56:25.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
